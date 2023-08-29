@@ -11,6 +11,8 @@ Build a wood case and add racks to screw the modules.
 
 Build a power supply. It's although possible to buy one if you're not confident enough for building it.
 
+Build or buy bus board for plugging modules.
+
 3 - Electronic and Pcb
 
 To build your PCB, you need the schematics and how to use kicad.
