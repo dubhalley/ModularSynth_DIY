@@ -1,31 +1,28 @@
-# Eurorack-Modular-DIY
-All data on building an Eurorack Modular Synth
+# Eurorack_Modular_DIY
+All data to build an Eurorack Modular Synth
 
 You could find here all my work on how to build an Eurorack Modular Synth
 
 1 - Case
 
-Acheter ou fabriquer
-Bois, aluminium
+Build a wood case and add racks to screw the modules.
 
 2 - Power supply
 
+Build a power supply. It's although possible to buy one if you're not confident enough for building it.
+
 3 - Electronic and Pcb
 
-Schématics (Modular+ and others)
+To build your PCB, you need the schematics and how to use kicad.
 
-Pcb ready to buy (Modular+ and others)
-
-Pcb ready to etch (GERBER) (Modular+ and others)
+But, you can although find some pcb ready to buy or ready to etch (GERBER files)
 
 4 - Front panel
 
-The tools you need : Inkscape, LaserCutter or PCB supplyer
-
-Material you need : Wood, PMMA, Pcb front panel
+To build a front panel you need : Inkscape software, a laserCutter (to build with wood or pmma) or a PCB supplyer to etch it in PCB material.
 
 5 - Knob
 
-Tools : Freecad, 3D printer
+To have a 3d knob you need : Freecad software and a 3D printer
 
 
