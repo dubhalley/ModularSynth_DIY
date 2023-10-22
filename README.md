@@ -29,3 +29,4 @@ To build a front panel you need : Inkscape software, a laserCutter (to build wit
 To have a 3d knob you need : Freecad software and a 3D printer
 
 
+![ Les2Redimm](https://github.com/dubhalley/Eurorack_Modular_DIY/assets/5200123/800972c7-5819-443b-8aee-4e67265dd3ed)
