@@ -1,6 +1,8 @@
 # Modular+_DIY
 
-Need photos
+* Need photos
+
+* Need disclaimer
 
 All data and tricks, I tried to build an Eurorack Modular Synth
 
