@@ -38,3 +38,22 @@ To have a 3d knob (Have a look at front panel directorie) you need : Freecad sof
 
 
 ![ Les2Redimm](https://github.com/dubhalley/Eurorack_Modular_DIY/assets/5200123/800972c7-5819-443b-8aee-4e67265dd3ed)
+
+
+# repository architecture for an eurorack module
+
+* The topic of the module, how to use it
+
+* Kicad Project files to allow modifications
+
+* Gerber pcb : Supply GerberPcb.zip for sending to jlcpcb for example to have a board
+
+* Gerber Front panel : Supply GerberPanel.zip for sending to jlcpcb for example to have a front panel
+
+* Schéma : Supply the schematic in .png or pdf and in Kicad files
+
+* iBOM : To have the list of the components needed and where they are on the boards
+
+* Code, if needed : Not very often I guess ^^
+
+* Wiki : how to build with pictures
