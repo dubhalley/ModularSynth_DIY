@@ -16,11 +16,11 @@
 
 My cases
 
-<img src='Modulaire.jpg' width='200px'/>
+<img src='Pictures/Modulaire.jpg' width='200px'/>
 
 My Studio
 
-<img src='Studio.jpg' width='200px'/>
+<img src='Pictures/Studio.jpg' width='200px'/>
 
 
 **A modular synth is only this few things :)**
