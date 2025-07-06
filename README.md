@@ -14,6 +14,8 @@
 
 * I also wanted to thanks all the Synth DIY fellows from the years who shared theirs schemas
 
+<img src='Pictures/Gaston.jpg' width='200px'/>
+
 My cases
 
 <img src='Pictures/Modulaire.jpg' width='200px'/>
@@ -58,7 +60,7 @@ you need : Inkscape software, a laserCutter (for wood, dibond or pmma) or a PCB 
 
 To have your customized knobs you need : Freecad software and a 3D printer
 
-<img src='Pictures/Gaston.jpg' width='200px'/>
+
 
 ![ Les2Redimm](https://github.com/dubhalley/Eurorack_Modular_DIY/assets/5200123/800972c7-5819-443b-8aee-4e67265dd3ed)
 
