@@ -1,46 +1,68 @@
 # Modular+_DIY
 
-* Need photos
+## About 
 
-* Need disclaimer
+* Hi, my name is Yohann. I live in a small town in Brittany in France.
 
-All data and tricks, I tried to build an Eurorack Modular Synth
+* I use the name of modular+ to build some modular synth :)
 
-You could find here all my Research, work, experiment, read on how to build an Eurorack Modular Synth
+* I'm not an electronic engineer, I'm a Maker/Builder/Fixer/Breaker of things since many years :)
 
-1 - Case
+* Everything present here works at home. But murphy's law can involve. So I could not be responsible of any injuries with this projects
+
+* Here, you'll see all the data and tricks, research, work, experiments I tried to build some Modular Synth
+
+* I also wanted to thanks all the Synth DIY fellows from the years who shared theirs schemas
+
+My cases
+
+<img src='Modulaire.jpg' width='200px'/>
+
+My Studio
+
+<img src='Studio.jpg' width='200px'/>
+
+
+**A modular synth is only this few things :)**
+
+
+## 1 - Case
 
 Build a wood case and add racks to screw the modules.
 
-2 - Power supply
+## 2 - Power supply
 
 Build a power supply. !!! attention - High voltage 220V !!!
 
 It's although possible to buy one if you're not confident enough for building it. 
 
-Build or buy bus board for plugging modules.
+Bus board for plugging modules.
 
 Build power cable for your modules. 
 
-3 - Electronic and Pcb
+## 3 - Electronic and Pcb
 
-To build your PCB, you need the schematics and how to use kicad software.
+For yours PCB's', you need a schematic and how to use kicad or other, some electronic design softwares.
 
-But, you can although find some pcb read to buy or ready to etch (GERBER files)
+You can although find some pcb read to buy or ready to etch (GERBER files)
 
-4 - Front panel
+Or use the old-fashioned handcrafting with chemicals
 
-To build a front panel (Have a look at front panel directorie) you need : Inkscape software, a laserCutter (to build with wood or pmma) or a PCB supplyer to etch it in PCB material.
+## 4 - Front panel
 
-5 - Knob
+To build a front panel 
 
-To have a 3d knob (Have a look at front panel directorie) you need : Freecad software and a 3D printer
+you need : Inkscape software, a laserCutter (for wood, dibond or pmma) or a PCB supplyer to etch it in PCB material.
+
+## 5 - Knob
+
+To have your customized knobs you need : Freecad software and a 3D printer
 
 
 ![ Les2Redimm](https://github.com/dubhalley/Eurorack_Modular_DIY/assets/5200123/800972c7-5819-443b-8aee-4e67265dd3ed)
 
 
-# repository architecture for an eurorack module
+# Typical architecture for an eurorack module repository
 
 * The topic of the module, how to use it
 
